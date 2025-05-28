@@ -1,0 +1,33 @@
+module function
+This module allows players to turn on or off the "out-of-body" mode through simple chat commands in the game. In this mode, the player's soul will leave the body and can freely fly to explore the surrounding environment, while the body remains in place.
+Using tutorials
+basic instruction
+Opening the soul out of the body:
+Enter: On in the game chat bar
+Your soul will be separated from the body and free to fly and explore
+Close the soul out of body:
+Enter: Close in the game chat bar
+Your soul will return to your body and return to normal game mode
+Get help:
+Enter: Help in the game chat bar
+The module version information and usage instructions will be displayed
+
+Note: "Out-of-Body [E1.0]" open source follows the GPL3.0 license, and GPL3.0 has legal benefits internationally (including domestic). According to the Minecraft EULA, you are not allowed to use USF for commercial, for-profit purposes.
+After the code is modified, the code should be open source and marked with EnderTrekker, the name of the community contributor, and the GPL3.0 license should be extended to the modified "Out-of-Body [E1.0]"
+
+模块功能
+该模块允许玩家通过游戏中的简单聊天命令打开或关闭“灵魂出窍”模式。在这种模式下，玩家的灵魂会离开身体，可以自由飞行探索周围的环境，而身体则留在原地。
+使用教程
+基本说明
+将灵魂从身体中打开：
+Enter：在游戏聊天栏中打开
+你的灵魂将与身体分离，自由飞行和探索
+将灵魂出窍：
+Enter：在游戏聊天栏中关闭
+你的灵魂会回到你的身体，回到正常的游戏模式
+获取帮助：
+输入：游戏聊天栏中的 Help（帮助）
+将显示模块版本信息和使用说明
+
+注意:"Out-of-Body [E1.0]" 开源遵循GPL3.0协议，且GPL3.0在国际上(包括国内)具有法律效益。根据MinecraftEULA，你不允许将USF用于商业、盈利性行为，
+修改代码后应将代码开源并标注EnderTrekker,社区贡献者名称，GPL3.0协议同时顺延至修改后的"Out-of-Body [E1.0]"
